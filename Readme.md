@@ -25,7 +25,7 @@ train=[
 Save the Script and run it with python generictrainer.py       
 Either uncomment the predict Function or go to the portal to Evaluate 
 
-![](https://github.com/uneidel/ModelGenerator/raw/master/Images/cv.jpg)
+![](https://github.com/uneidel/ModelGenerator/raw/master/Images/cv.PNG)
 
 
 This are a Setup for WorkerSafety Demo: (HardHat Detection)      
