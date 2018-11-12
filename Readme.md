@@ -31,6 +31,3 @@ train=[
     {"StartIndex": 'n03492922',"ImageMax" : 500,"Tag" :  "ConstructionHelmet"}
 ]
 ````
-[GenericTrainer.py]
-(https://microsoft.sharepoint.com/teams/PDSIoTKnowledgearea/Shared Documents/SME - Advanced Analytics/GenericTrainer.py)
-<https://teams.microsoft.com/l/message/19:c24afd39107c4c2681c4bca7f7149dbb@thread.skype/1539240141972?tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47&amp;groupId=8b3b19d9-31f6-4153-a3c2-3e4dee7e922f&amp;parentMessageId=1539240141972&amp;teamName=PDS IoT Knowledge Central&amp;channelName=SME - Advanced Analytics&amp;createdTime=1539240141972>
